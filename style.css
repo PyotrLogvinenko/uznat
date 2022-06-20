@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Ruslan+Display&display=swap');
+
+html{
+    font-family: 'Ruslan Display', cursive;
+}
+
+h1{
+    font-weight: 400;
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+    display: block;
+    position: relative;
+    top: 50vh;
+    bottom: 50vh;
+}
+
+a{
+    text-align: center;
+    margin: auto;
+    display: block;
+    position: relative;
+    top: 55vh;
+    padding: 20px;
+    background: aliceblue;
+    width: 150px;
+    border-radius: 20px;
+    font-size: 36px;
+    text-decoration: none;
+    color: blueviolet;
+}
